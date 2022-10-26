@@ -1,0 +1,10 @@
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    margin-top: 10%;
+}
+

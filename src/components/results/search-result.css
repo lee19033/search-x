@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    width: 450px;
+}
+
+.container__description {
+    align-self: flex-start;
+    justify-self: flex-start;    
+    text-align: start;
+    margin-top: 2px;
+}
+
+.container__title {
+    align-self: flex-start;
+    justify-self: flex-start;    
+    text-align: start;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+a {
+    color: #1a0dab;
+}
+
+h3 {
+    font-size: 1.17em;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
